@@ -12,69 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MathDemo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/MathDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="44" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/MathDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="34" column="1" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathExercise.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/MathExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="10" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RelateDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/RelateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="1" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConditionDemo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/ConditionDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="1" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConditionDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/ConditionDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/IfDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LogicDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/LogicDemo.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +30,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeapYearDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeapYearDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/operator/LeapYearDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OctalOutput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/OctalOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="82" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreAssess.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/ScoreAssess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="27" lean-forward="true" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfChoose.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IfChoose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfElseDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IfElseDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="5" lean-forward="true" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntCompare.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IntCompare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeekDemo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeekDemo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -135,6 +135,13 @@
         <option value="$PROJECT_DIR$/src/cn/mtianyan/operator/LogicDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/mtianyan/operator/ConditionThreeEye.java" />
         <option value="$PROJECT_DIR$/src/cn/mtianyan/operator/LeapYearDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/OctalOutput.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/ScoreAssess.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/IfChoose.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/IfElseDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/IntCompare.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo1.java" />
+        <option value="$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo2.java" />
       </list>
     </option>
   </component>
@@ -199,7 +206,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="mtianyan" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
@@ -228,71 +235,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeapYearDemo">
-    <configuration name="ConditionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.operator.ConditionDemo2" />
+  <component name="RunManager" selected="Application.WeekDemo2">
+    <configuration name="IfChoose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.flow.IfChoose" />
       <module name="1-FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mtianyan.operator.*" />
+          <option name="PATTERN" value="cn.mtianyan.flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ConditionThreeEye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.operator.ConditionThreeEye" />
+    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.flow.IfElseDemo" />
       <module name="1-FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mtianyan.operator.*" />
+          <option name="PATTERN" value="cn.mtianyan.flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.operator.IfDemo" />
+    <configuration name="IntCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.flow.IntCompare" />
       <module name="1-FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mtianyan.operator.*" />
+          <option name="PATTERN" value="cn.mtianyan.flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LeapYearDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.operator.LeapYearDemo" />
+    <configuration name="WeekDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.flow.WeekDemo1" />
       <module name="1-FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mtianyan.operator.*" />
+          <option name="PATTERN" value="cn.mtianyan.flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LogicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.operator.LogicDemo" />
+    <configuration name="WeekDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.mtianyan.flow.WeekDemo2" />
       <module name="1-FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mtianyan.operator.*" />
+          <option name="PATTERN" value="cn.mtianyan.flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.ConditionDemo2" />
-      <item itemvalue="Application.IfDemo" />
-      <item itemvalue="Application.LogicDemo" />
-      <item itemvalue="Application.ConditionThreeEye" />
-      <item itemvalue="Application.LeapYearDemo" />
+      <item itemvalue="Application.IfChoose" />
+      <item itemvalue="Application.IfElseDemo" />
+      <item itemvalue="Application.IntCompare" />
+      <item itemvalue="Application.WeekDemo1" />
+      <item itemvalue="Application.WeekDemo2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYearDemo" />
-        <item itemvalue="Application.ConditionThreeEye" />
-        <item itemvalue="Application.LogicDemo" />
-        <item itemvalue="Application.IfDemo" />
-        <item itemvalue="Application.ConditionDemo2" />
+        <item itemvalue="Application.WeekDemo2" />
+        <item itemvalue="Application.WeekDemo1" />
+        <item itemvalue="Application.IntCompare" />
+        <item itemvalue="Application.IfElseDemo" />
+        <item itemvalue="Application.IfChoose" />
       </list>
     </recent_temporary>
   </component>
@@ -309,19 +316,20 @@
       <workItem from="1532719887681" duration="1274000" />
       <workItem from="1532721456972" duration="1297000" />
       <workItem from="1532757823280" duration="15971000" />
-      <workItem from="1532834186445" duration="1920000" />
+      <workItem from="1532834186445" duration="6146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20462000" />
+    <option name="totallyTimeSpent" value="24688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1333" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3287891" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32877815" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -329,11 +337,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4011254" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4011254" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2734375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2734375" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -611,6 +619,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/OctalOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="82" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/ScoreAssess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="27" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IfChoose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IfElseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/IntCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow/WeekDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
