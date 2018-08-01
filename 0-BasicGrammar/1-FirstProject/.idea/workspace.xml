@@ -15,8 +15,8 @@
       <file leaf-file-name="VarDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/VarDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="682">
+              <caret line="31" column="38" selection-start-line="23" selection-start-column="7" selection-end-line="31" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -48,20 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForDemo1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ForDemo1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow2/ForDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="11" column="16" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyHomework.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/method/MyHomework.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -88,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow2/GuessDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+              <caret line="19" column="33" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -190,6 +181,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,55 +192,12 @@
             </path>
             <path>
               <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mtianyan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mtianyan" type="462c0819:PsiDirectoryNode" />
-              <item name="flow2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mtianyan" type="462c0819:PsiDirectoryNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-FirstProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="mtianyan" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1-FirstProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,20 +307,19 @@
       <workItem from="1532920125639" duration="2416000" />
       <workItem from="1532923244972" duration="7420000" />
       <workItem from="1532964998446" duration="3696000" />
-      <workItem from="1533013372039" duration="19580000" />
+      <workItem from="1533013372039" duration="20266000" />
+      <workItem from="1533087770953" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68600000" />
+    <option name="totallyTimeSpent" value="69349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1333" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32877815" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -379,7 +327,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4011254" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4011254" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -397,6 +345,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32877815" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,10 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="5" lean-forward="true" selection-end-line="14" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,12 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="5" selection-end-line="29" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,12 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="28" selection-end-line="17" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/VarDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="682">
+          <caret line="31" column="38" selection-start-line="23" selection-start-column="7" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -772,21 +705,15 @@
     <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow2/GuessDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+          <caret line="19" column="33" selection-start-line="10" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/method/MyHomework.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/flow2/ForDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="16" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/mtianyan/method/MyHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
         </state>
       </provider>
     </entry>
