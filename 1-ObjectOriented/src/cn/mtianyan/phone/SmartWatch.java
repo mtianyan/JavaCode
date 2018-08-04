@@ -1,7 +1,7 @@
 package cn.mtianyan.phone;
 
-public class SmartWatch implements INet{
-
+public class SmartWatch implements INet, Iphoto {
+    public static final int TEMP = 30;
     @Override
     public void network() {
         System.out.println("智能手表可以上网");
@@ -9,6 +9,11 @@ public class SmartWatch implements INet{
 
     @Override
     public void connection() {
-        System.out.println("智能手表可以连接");
+        System.out.println("SmartWatch 中的connection");
+    }
+
+    @Override
+    public void photo() {
+
     }
 }

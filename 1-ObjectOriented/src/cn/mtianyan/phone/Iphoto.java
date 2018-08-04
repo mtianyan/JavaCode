@@ -5,4 +5,7 @@ package cn.mtianyan.phone;
  */
 public interface Iphoto {
     public void photo();
+    default void connection(){
+        System.out.println("我是照相接口中的默认连接");
+    }
 }
