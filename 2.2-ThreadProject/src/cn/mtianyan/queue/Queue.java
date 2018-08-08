@@ -31,5 +31,4 @@ public class Queue {
 		flag=true; // 生产完毕，容器中已经有数据
 		notifyAll();
 	}
-	
 }
